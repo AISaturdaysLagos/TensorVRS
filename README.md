@@ -1,2 +1,2 @@
 # TensorVRS
-A TensorFlow-based Visual Recognition System using.
+A Visual Recognition System built with tensorflow 2.0
